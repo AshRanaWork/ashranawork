@@ -8,7 +8,7 @@ Product Data Analyst by background, now building tools that turn messy data into
 - **Languages & Data:** SQL, Python (Pandas)
 - **BI & Viz:** Tableau, Power BI
 - **AI & Automation:** OpenAI API, workflow automation
-- **Tools:** Git, GitHub, Excel
+- **Tools:** Git, GitHub, Excel, VS Code
 
 📊 **Featured projects:**
 - **[Pricing Discrepancy Detection Tool](https://github.com/AshRanaWork/pricing-discrepancy-tool)** — Python + Pandas tool that detects vendor overcharges and drafts correction emails with the OpenAI API. Flagged $5,810 in overcharges on sample data.
