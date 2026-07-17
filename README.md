@@ -15,5 +15,5 @@ Product Data Analyst by background, now building tools that turn messy data into
 - **[Retail Marketing Campaign Analysis](https://github.com/AshRanaWork/retail-marketing-campaign-analysis)** — SQL + Tableau analysis of 2.6M retail transactions evaluating campaign effectiveness, with an [interactive dashboard](https://public.tableau.com/app/profile/ash.rana/viz/RetailMarketingCampaignAnalysis_17836176046030/Dashboard).
 - **[Pricing Discrepancy Detection Tool](https://github.com/AshRanaWork/pricing-discrepancy-tool)** — Python + Pandas tool that detects vendor overcharges and drafts correction emails with the OpenAI API. Flagged $5,810 in overcharges on sample data.
 
-Visit me on my Website: AshRanaWork.com
+Visit me on my [Website](ashranawork.com)
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashranawork)
