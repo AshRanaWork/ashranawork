@@ -2,7 +2,7 @@
 
 **Data Analyst → building toward AI & Automation**
 
-Product Data Analyst by background, now building tools that turn messy data into decisions - and automating the work with Python, SQL, and AI. Graduating December 2026 with an MSc in Computer Science (AI & Machine Learning specialization).
+Product Data Analyst by background, now building tools that turn messy data into decisions - and automating the work with Python, SQL, and Artificial Intelligence Tools. Graduating December 2026 with an MSc in Computer Science (AI & Machine Learning specialization).
 
 **Tech I work with:**
 - **Languages & Data:** SQL, Python (Pandas)
