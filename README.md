@@ -1,6 +1,6 @@
 ### Hi, I'm Ash 👋
 
-**Data Analyst → building toward AI & Automation**
+Automation-focused Data Analyst | AI agents & LLM workflows | SQL · Python · Power BI | MSc CS (AI/ML), Dec 2026
 
 Product Data Analyst by background, now building tools that turn messy data into decisions - and automating the work with Python, SQL, and Artificial Intelligence Tools. Graduating December 2026 with an MSc in Computer Science (AI & Machine Learning specialization).
 
